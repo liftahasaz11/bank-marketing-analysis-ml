@@ -33,7 +33,7 @@ Interactive visual analytics have been created to map customer behavior in depth
 Interactive visual analytics have been created to map customer behavior in depth.
 
 > [!TIP]
-> **[CLICK HERE TO VIEW THE INTERACTIVE DASHBOARD]([YOUR_TABLEAU_PUBLIC_URL](https://bank-marketing-analysis-ml-5djseixlcmfn9qh84nkjxn.streamlit.app/))**
+> **[CLICK HERE TO START PREDICT]([YOUR_TABLEAU_STREAMLIT_URL](https://bank-marketing-analysis-ml-5djseixlcmfn9qh84nkjxn.streamlit.app/))**
 
 
 ![Tableau Preview](assets/tableau_preview.png)
