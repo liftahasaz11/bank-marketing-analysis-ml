@@ -29,6 +29,12 @@ Interactive visual analytics have been created to map customer behavior in depth
 
 > [!TIP]
 > **[CLICK HERE TO VIEW THE INTERACTIVE DASHBOARD]([YOUR_TABLEAU_PUBLIC_URL](https://public.tableau.com/app/profile/lieftha.hasaz/viz/Bank-Marketing-CampaignFinProLiefthaFaris/Dashboard1))**
+>## 📊 Streamlit App & Start Predict!!!
+Interactive visual analytics have been created to map customer behavior in depth.
+
+> [!TIP]
+> **[CLICK HERE TO VIEW THE INTERACTIVE DASHBOARD]([YOUR_TABLEAU_PUBLIC_URL](https://bank-marketing-analysis-ml-5djseixlcmfn9qh84nkjxn.streamlit.app/))**
+
 
 ![Tableau Preview](assets/tableau_preview.png)
 *(Replace this image with a screenshot of your dashboard in the assets folder)*
